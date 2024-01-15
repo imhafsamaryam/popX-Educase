@@ -4,7 +4,7 @@ import { useNavigate } from 'react-router-dom'
 
 const Splashscreen = () => {
 
-  const navigate = useNavigate();
+  const navigate = useNavigate()
 
   return (
     <div className='desktop-screen'>
